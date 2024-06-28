@@ -1,8 +1,35 @@
 ### Hi there 👋
 
 # How to reach Me:
-![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)
+ <br />
+<p align="center">
+  <h1 align="center"> How to reach me? </h1>
+<p h2 align="center">
 
+<a href="https://www.researchgate.net/profile/Parsa-Kamalipour">
+  <img alt="ResearchGate" src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white"/>
+ </a>
+ <a href="https://www.linkedin.com/in/parsakamalipour/">
+  <img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+ </a>
+ <a href="https://scholar.google.com/citations?user=eBNZsM0AAAAJ">
+  <img alt="google_scholar" src="https://img.shields.io/badge/google_scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+ </a>
+ //<a href="https://orcid.org/0000-0003-2546-9676">
+ // <img alt="ORCID" src="https://img.shields.io/badge/ORCID-a6ce39?style=for-the-badge&logo=orcid&logoColor=white"/>
+ //</a>
+  <a href="https://www.youtube.com/channel/UCIu6MeO9aaBsLy00XoKO5tw">
+  <img alt="YouTube" src="https://img.shields.io/badge/YouTube_No.1-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
+ </a>
+ <a href="mailto:dara.rahmatsamii@mail.concordia.ca">
+  <img alt="Mail" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+ </a>
+ <a href="https://github.com/DaraSamii">
+  <img alt="github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+ </a>
+ <a href="https://x.com/dara_samii">
+  <img alt="X (Twitter)" src="https://img.shields.io/badge/X_(Twitter)-%23121011.svg?style=for-the-badge&logo=X&logoColor=white"/>
+ </a>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DaraSamii)  
 
