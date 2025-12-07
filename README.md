@@ -65,27 +65,6 @@
 
 ---
 
-## 🔥 Featured Projects
-
-<a href="https://github.com/DaraSamii/MeshGraphNet_Homann_results">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DaraSamii&repo=MeshGraphNet_Homann_results&theme=tokyonight" />
-</a>
-<a href="https://github.com/DaraSamii/py-distillation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DaraSamii&repo=py-distillation&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/DaraSamii/PID-ball-balance">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DaraSamii&repo=PID-ball-balance&theme=tokyonight" />
-</a>
-<a href="https://github.com/DaraSamii/A.I.ducation-Analytics">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DaraSamii&repo=A.I.ducation-Analytics&theme=tokyonight" />
-</a>
-
-### 🎯 Highlight: Mesh-Based GNN for CFD Acceleration
-> Achieved **100× speedup** over traditional solvers by converting OpenFOAM polyMesh to graph inputs and training Graph Neural Networks for thermal Homann flow prediction.
-
----
-
 ## 🏆 Honors & Awards
 
 - 🌍 **Mitacs Global Research Award** (CAD $6,000) — France-Canada research project (2025)
