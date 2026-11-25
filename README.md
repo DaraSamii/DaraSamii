@@ -11,8 +11,6 @@ I build simulations of compressible, multiphase and reacting flows, and use mach
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dara-samii)
 [![Email](https://img.shields.io/badge/Email-dara.rahmatsamii%40mail.mcgill.ca-D14836?style=flat-square&logo=maildotru&logoColor=white)](mailto:dara.rahmatsamii@mail.mcgill.ca)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCIu6MeO9aaBsLy00XoKO5tw)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/dara_samii)
-
 </div>
 
 ## About
