@@ -102,6 +102,17 @@ Plasma widgets, including a multi-city animated weather widget with hourly and 7
 
 Languages: English (professional, IELTS 7.5) · French (B1) · Persian (native)
 
+## GitHub stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaraSamii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaraSamii&layout=compact&langs_count=8&theme=tokyonight" alt="Most used languages"/>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DaraSamii&theme=tokyonight)](https://git.io/streak-stats)
+
+</div>
+
 ## Commit arcade
 
 <!-- ARCADE:START -->
